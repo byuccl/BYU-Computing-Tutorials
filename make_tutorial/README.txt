@@ -36,9 +36,7 @@ Discuss how we can use CMake to create our makefiles for us.
     Just run 'make' to build.  (It even prints in nice colors for us).
 
 
-ex3 Contains a more advanced cmake example:
-    - I never got to this in class
-
+ex3 Contains a more advanced cmake example:    
     - It demonstrates:
         - Placing all build files in a build directory.
         - Subdirectories
