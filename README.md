@@ -1,3 +1,4 @@
-# FPGA-Tutorials
+# BYU-Computing-Tutorials
 
-See the [wiki](https://github.com/byuccl/FPGA-Tutorials/wiki)
+This has moved to [](https://github.com/byu-cpe/BYU-Computing-Tutorials).
+
